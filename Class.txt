@@ -1,6 +1,6 @@
 Value=100
 Print ("Value")
-ok
+ok-2
 hi
 test
 done
