@@ -1,2 +1,2 @@
 Value=100
-Print (Value)
+Print ("Value")
